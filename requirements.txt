@@ -1,0 +1,5 @@
+google-colab
+pandas
+requests
+jsonlib
+urllib3
