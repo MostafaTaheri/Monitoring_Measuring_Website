@@ -14,3 +14,17 @@ pandas: Mainly used for data analysis and manipulation, we’re using it to crea
 time: A module for working with times, we’re using it to provide a time break between requests.
 files: From Google Colab, this will allow you to upload and download files.
 io: The default interface used to access files.
+
+### Step 2: Set up an API Request
+
+### Step 3: Testing the API
+
+### Step 4: Read the JSON File
+
+### Step 5: Save the Results to a Response Object
+
+### Step 6: Create a Dataframe to Store the Responses
+
+### Step 7: Extract the Metrics From the Response Object
+
+### Step 8: Turn the DataFrame Into a CSV file
