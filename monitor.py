@@ -103,7 +103,6 @@ class Monitor(object):
                                 'speed-index']['displayValue']
                     self.counter += 1
         except Exception as ex:
-            print(ex)
             return ex
 
     def __make_json_file(self, file_name, content):
